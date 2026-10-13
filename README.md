@@ -94,21 +94,47 @@ Next.js | React | JavaScript | PostgreSQL | Prisma | OpenAI SDK
 [![SmartDesk AI](https://img.shields.io/badge/View_SmartDesk_AI-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/thanapiphatSuwanprathep/smartdesk-ai)
 
 
-## 📸 Application Screenshots
 
-Explore the user interface of SmartDesk AI, an IT Helpdesk and Ticket Management System.
+## 📸 System Screenshots
 
-### System Screenshots
+Explore the main features and user interfaces of SmartDesk AI, an AI-powered IT Helpdesk and Ticket Management System.
 
-![SmartDesk AI login](https://github.com/thanapiphatSuwanprathep/smartdesk-ai/blob/main/Screenshots/Screenshot%202026-10-14%20051656.png)
+---
 
-![SmartDesk AI Screenshot 2](Screenshots/Screenshot%202026-10-14%20051720.png)
+### 🔐 1. Login Page
+Secure user authentication system that allows users, IT support staff, and administrators to access the platform based on their assigned roles.
 
-![IT Support Dashboard](Screenshots/Screenshot%202026-10-14%20051744.png)
+![SmartDesk AI Login](https://github.com/thanapiphatSuwanprathep/smartdesk-ai/blob/main/Screenshots/Screenshot%202026-10-14%20051656.png)
 
-![SmartDesk AI Screenshot 4](Screenshots/Screenshot%202026-10-14%20051827.png)
+---
 
-![SmartDesk AI Screenshot 5](Screenshots/Screenshot%202026-10-14%20051854.png)
+### 👤 2. User Dashboard
+Personalized dashboard for users to create IT support tickets, monitor request status, and track the progress of reported issues.
+
+![SmartDesk AI User Dashboard](https://github.com/thanapiphatSuwanprathep/smartdesk-ai/blob/main/Screenshots/Screenshot%202026-10-14%20051720.png)
+
+---
+
+### 🛠️ 3. IT Support Dashboard
+Dedicated workspace for IT support staff to manage assigned tickets, monitor support activities, and update ticket statuses.
+
+![SmartDesk AI IT Support Dashboard](https://github.com/thanapiphatSuwanprathep/smartdesk-ai/blob/main/Screenshots/Screenshot%202026-10-14%20051744.png)
+
+---
+
+### 🛡️ 4. Admin Dashboard
+Centralized administration dashboard for monitoring support operations, managing users, and overseeing IT service requests.
+
+![SmartDesk AI Admin Dashboard](https://github.com/thanapiphatSuwanprathep/smartdesk-ai/blob/main/Screenshots/Screenshot%202026-10-14%20051827.png)
+
+---
+
+### 🤖 5. AI-Powered IT Chatbot
+AI-assisted helpdesk chatbot designed to provide technical guidance, answer common IT questions, and assist users with troubleshooting.
+
+![SmartDesk AI Chatbot](https://github.com/thanapiphatSuwanprathep/smartdesk-ai/blob/main/Screenshots/Screenshot%202026-10-14%20051854.png)
+
+---
 
 
 ---
