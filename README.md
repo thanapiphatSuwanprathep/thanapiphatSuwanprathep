@@ -100,7 +100,7 @@ Explore the user interface of SmartDesk AI, an IT Helpdesk and Ticket Management
 
 ### System Screenshots
 
-![SmartDesk AI Screenshot 1](Screenshots/Screenshot%202026-10-14%20051556.png)
+![SmartDesk AI login](https://github.com/thanapiphatSuwanprathep/smartdesk-ai/blob/main/Screenshots/Screenshot%202026-10-14%20051656.png)
 
 ![SmartDesk AI Screenshot 2](Screenshots/Screenshot%202026-10-14%20051720.png)
 
