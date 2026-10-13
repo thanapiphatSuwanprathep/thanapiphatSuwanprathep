@@ -1,90 +1,133 @@
-👋 Hi, I'm Thanapiphat!
 
-💻 Aspiring Software Developer | Full-Stack Web Development
+# 👋 Hi, I'm Thanapiphat Suwannaprathep!
+
+### 💻 Aspiring Full-Stack Developer | Frontend & Backend Development
 
 I'm passionate about developing web applications, designing databases, and building practical software solutions.
 
-I enjoy learning new technologies and transforming ideas into functional applications.
+I have hands-on experience with frontend development, backend APIs, database management, and workflow automation through academic and personal projects.
 
-Currently building projects and improving my skills in full-stack development.
+Currently improving my full-stack development skills and preparing for professional software development opportunities.
 
-🚀 About Me
+---
 
-🎓 Interested in software engineering and web application development
+## 🚀 About Me
 
-💻 Experienced in building full-stack web projects
+- 🎓 Interested in Software Engineering and Web Development
+- 💻 Building Full-Stack Web Applications
+- 🎨 Interested in Frontend Development and UI/UX Design
+- ⚙️ Developing Backend APIs and Database-Driven Systems
+- 🗄️ Working with Relational Databases
+- 🔐 Learning Authentication and Web Security
+- 🤖 Exploring AI Integration and Automation
+- 🌱 Continuously Learning New Technologies
 
-🗄️ Interested in database design and backend development
+---
 
-🤖 Exploring AI integration and automation
+## 🛠️ Tech Stack & Skills
 
-🌱 Continuously learning and improving my development skills
+### 🎨 Frontend Development
 
-🛠️ Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-Frontend
+### ⚙️ Backend Development
 
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js API](https://img.shields.io/badge/Next.js_API_Routes-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
+### 🗄️ Database
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### 🧰 Development Tools
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
+### 📊 Other Technologies
 
-Backend & Database
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
+---
 
+## 📌 Featured Project
 
+### 🖥️ SmartDesk AI — IT Helpdesk & Ticket Management System
 
+SmartDesk AI is a full-stack IT helpdesk management application designed to simplify technical support operations, improve ticket tracking, and streamline communication between users, IT staff, and administrators.
 
+### ✨ Key Features
 
-Tools & Platforms
+- 🔐 User Registration & Authentication
+- 👥 Role-Based Access Control
+- 🎫 IT Support Ticket Management
+- 📊 User, IT Staff & Admin Dashboards
+- 🔄 Ticket Status Tracking
+- 💬 Ticket Messaging System
+- 🤖 AI-Powered Helpdesk Chatbot
+- 🛡️ Administrative User Management
+- 🔑 Password Reset Functionality
 
+**Tech Stack:**
 
+Next.js | React | JavaScript | PostgreSQL | Prisma | OpenAI SDK
 
+### 🔗 Project Repository
 
+[![SmartDesk AI](https://img.shields.io/badge/View_SmartDesk_AI-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/thanapiphatSuwanprathep/smartdesk-ai)
 
-📌 Featured Project
+---
 
-🖥️ SmartDesk AI — IT Helpdesk Management System
+## 📊 GitHub Statistics
 
-A full-stack IT support ticket management system with role-based dashboards, ticket tracking, administrative management, and AI-assisted helpdesk functionality.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thanapiphatSuwanprathep&show_icons=true&theme=tokyonight)
 
-Technologies: Next.js, React, PostgreSQL, Prisma, JavaScript
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thanapiphatSuwanprathep&layout=compact&theme=tokyonight)
 
-🔗 View SmartDesk AI on GitHub
+---
 
-📊 GitHub Statistics
+## 🎯 Current Goals
 
+- 🚀 Improve Full-Stack Web Development Skills
+- 💻 Build Real-World Web Applications
+- 🗄️ Strengthen Backend and Database Knowledge
+- 🔐 Learn Web Application Security
+- 🤖 Explore AI-Powered Applications
+- 🎓 Gain Professional Software Development Experience
 
+---
 
+## 📫 Connect With Me
 
+**Name:** Thanapiphat Suwannaprathep
 
-🎯 Current Goals
+**GitHub:** [thanapiphatSuwanprathep](https://github.com/thanapiphatSuwanprathep)
 
-Improve full-stack web development skills
+**Featured Project:** [SmartDesk AI](https://github.com/thanapiphatSuwanprathep/smartdesk-ai)
 
-Build production-ready applications
+---
 
-Learn software architecture and best practices
+### ⭐ Thanks for visiting my GitHub profile!
 
-Explore AI-powered applications
+*Always learning, building, and improving.*
 
-Gain professional software development experience
-
-📫 Connect With Me
-
-GitHub: thanapiphatSuwanprathep
-
-Portfolio: Coming Soon
-
-⭐ Thanks for visiting my GitHub profile!
-<!--
-**thanapiphatSuwanprathep/thanapiphatSuwanprathep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
