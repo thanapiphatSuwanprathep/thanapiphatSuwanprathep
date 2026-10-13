@@ -93,6 +93,24 @@ Next.js | React | JavaScript | PostgreSQL | Prisma | OpenAI SDK
 
 [![SmartDesk AI](https://img.shields.io/badge/View_SmartDesk_AI-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/thanapiphatSuwanprathep/smartdesk-ai)
 
+
+## 📸 Application Screenshots
+
+Explore the user interface of SmartDesk AI, an IT Helpdesk and Ticket Management System.
+
+### System Screenshots
+
+![SmartDesk AI Screenshot 1](Screenshots/Screenshot%202026-10-14%20051556.png)
+
+![SmartDesk AI Screenshot 2](Screenshots/Screenshot%202026-10-14%20051720.png)
+
+![IT Support Dashboard](Screenshots/Screenshot%202026-10-14%20051744.png)
+
+![SmartDesk AI Screenshot 4](Screenshots/Screenshot%202026-10-14%20051827.png)
+
+![SmartDesk AI Screenshot 5](Screenshots/Screenshot%202026-10-14%20051854.png)
+
+
 ---
 
 ## 📊 GitHub Statistics
